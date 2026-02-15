@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+moviepy
+fastapi
+uvicorn
+python-multipart
+numpy
+requests
+tqdm
+scikit-image

@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Custom minimal scrollbar if needed, or just default */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
